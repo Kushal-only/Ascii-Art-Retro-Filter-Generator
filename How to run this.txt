@@ -1,0 +1,3 @@
+Just go to your vscode and paste the code there and click run.
+Then it will ask for input.
+Input the image you want to for example: if the image file is saved as Image.jpg then just type the file name (Image.jpg) at the terminal.
